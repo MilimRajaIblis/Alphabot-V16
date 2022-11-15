@@ -29,9 +29,9 @@ global.language = indonesia  //change indonesia to english if you don't understa
 global.botname = "IciwikirBot" //namabot kalian
 global.ownername= "Ferlian X Xzy" //nama kalian
 global.myweb ="https://api.xzyyyofc.xyz" //bebas asal jan hapus
-global.youtube = "https://youtube.com/channel/UC2GOH5mCArh3E4J3sGFMC5g" //bebas asal jan hapus
-global.myweb2 = "https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y=" //bebas
-global.email = "leviadnansyahlevi@gmail.com" //bebas
+global.youtube = "https://youtube.com/channel/KoboKanaeru" //bebas asal jan hapus
+global.myweb2 = "https://instagram/KoboKanaeru=" //bebas
+global.email = "stugemjago@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6283169648444'] //premium user
